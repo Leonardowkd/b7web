@@ -29,3 +29,13 @@ __
 .gitignore (arquivo,texto)
 *.txt
 *.sql
+__
+git revert --no-edit +id 
+git push origin :name  (deletar arquivo remoto)
+git branch -d master (deletar branch master)
+git pull origin master/main
+git clone +link repo git 
+
+
+
+
