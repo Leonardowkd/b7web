@@ -25,3 +25,7 @@ git branch -M main
 git push -u origin main/master 
 git remote -v
 git fetch -u origin main/master 
+__
+.gitignore (arquivo,texto)
+*.txt
+*.sql
