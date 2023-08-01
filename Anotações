@@ -1,0 +1,27 @@
+git config --global user.name "leonardo"
+git config --global user.email "leonardo.wkd@gmail.com"
+git config --global core.editor vim
+git config user.name
+git config --list 
+git init 
+git status 
+git add -A 
+git commit -m "mensagem"
+git commit -am "mensagem"
+git log
+git branch
+git reset --soft +id
+git reset --mixed +id
+git reset --hard +id
+git branch main
+git branch
+git checkout main/master
+git diff
+git diff --name-only
+git diff (nome do arquivo)
+git checkout HEAD -- README.md
+git remote add origin git@github.com:Leonardowkd/b7web.git
+git branch -M main
+git push -u origin main/master 
+git remote -v
+git fetch -u origin main/master 
